@@ -30,6 +30,33 @@
 
 - [C3.js](https://github.com/c3js/c3): It is a D3-based reusable chart library that enables deeper integration of charts into web applications. It provides a variety of APIs and callbacks to access the state of the chart.
 
+- [roughViz](https://github.com/jwilber/roughViz): It is a reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser, based on D3v5, rough.js, and handy.
+
+- [Morris.js](https://github.com/morrisjs/morris.js/): It's a very simple API for drawing line, bar, area and donut charts. At the moment, it doesn’t have an active support to maintain the library. So, if you want to contribute then please visit the github repo and contribute what you can.
+
+- [Billboard.js](https://github.com/naver/billboard.js): It is a re-usable, easy interface JavaScript chart library, based on D3 v4+. All of the code was written as an ESM(ES Module) with ES6+ syntax.
+
+- [Dygraphs](https://github.com/danvk/dygraphs): This is an interactive chart framework: you can mouse over to highlight individual values. You can click and drag to zoom. Double-clicking will zoom you back out. Shift-drag will pan. You can change the number and hit enter to adjust the averaging period.
+
+- [Metricsgraphics.js](https://github.com/metricsgraphics/metrics-graphics): This was built on top of d3js that is optimized for visualizing and laying out time-series data. It provides a simple way to produce common types of graphics in a principled, consistent and responsive way.
+
+- [Plotly.js](https://github.com/plotly/plotly.js/): This is built on top of d3.js and stack.gl, plotly.js is a high-level, declarative charting library. plotly.js ships with over 40 chart types, including scientific charts, 3D graphs, statistical charts, SVG maps, financial charts, and more.
+
+- [Techan.js](https://github.com/andredumas/techan.js): A visual, technical analysis and charting library built on d3js. Build interactive financial charts for modern and mobile browsers. It used d3js's reusable chart API pattern and currently supports a range of static and interactive plots.
+
+- [Tui-chart](https://github.com/nhn/tui.chart): This supports an easy way to draw various and essential charts on your web service and can be used in legacy browsers including IE8.
+
+- [Cytoscape.js](https://github.com/cytoscape/cytoscape.js): This contains a graph theory model and an optional renderer to display interactive graphs. This library was designed to make it as easy as possible for programmers and scientists to use graph theory in their apps, whether it's for server-side analysis in a Node.js app or for a rich user interface.
+
+- [n3charts](https://github.com/n3-charts/line-chart): It is an easy-to-use library for creating beautiful charts in AngularJS applications and it is built on top of D3.js.
+
+- [ember-table](https://github.com/Addepar/ember-table): An add-on to support a large data set and a number of features around the table. Ember Table can handle over 100,000 rows without any rendering or performance issue. This version of Ember Table supports Ember 1.11 to the latest version of Ember.
+
+- [plottable.js](https://github.com/palantir/plottable): It is a library of chart components for creating flexible, custom charts for websites. It is built on top of D3.js and provides higher-level pieces, like plots, gridlines, and axes.
+
+
+
+
 # Contributing
 
 - Please check for duplicates first.
